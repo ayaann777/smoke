@@ -1,0 +1,12 @@
+html, body {
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: mercedes;
+  src: url(Corporate\ A\ Light.ttf);
+}
+
+*{
+  font-family: mercedes;
+}
